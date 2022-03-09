@@ -76,7 +76,7 @@ function useInput(initialValue: any = "", options: Options = defaultOptions): In
   return handler;
 }
 
-export { useInput };
+export default useInput;
 ```
 
 ## Usage

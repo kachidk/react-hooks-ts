@@ -17,7 +17,7 @@ function useDidMount(callback: () => any): void {
   }, []);
 }
 
-export useDidMount;
+export default useDidMount;
 ```
 
 ## Usage
