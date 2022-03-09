@@ -1,4 +1,4 @@
-## [< Back](../../../../../)
+## [< Back](../../../../)
 
 React lifecycle hook that runs an effect only once. It has the same signature as `React.useEffect`.
 
