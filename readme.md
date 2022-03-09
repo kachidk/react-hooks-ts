@@ -19,8 +19,6 @@ Thinks of it as a wrappers that makes hooks feel complete.
 
 - [classNames](./docs/utils/classNames.md)
 
----
-
 ## References
 
 - [react-hooks.org](https://react-hooks.org)
