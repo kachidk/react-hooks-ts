@@ -10,7 +10,8 @@ Thinks of it as a wrappers that makes hooks feel complete.
 - [useSetState](./docs/hooks/useSetState.md)
 - [useEffectOnce](./docs/hooks/useEffectOnce.md)
 - [useEffectWatch](./docs/hooks/useEffectWatch.md)
+- [useInput](./docs/utils/useInput.md)
 
 ## Utils Menu
 
-- [useInput](./docs/utils/useInput.md)
+- [classNames](./docs/utils/classNames.md)
