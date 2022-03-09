@@ -11,7 +11,7 @@ Thinks of it as a wrappers that makes hooks feel complete.
 - [useDidUpdate](./docs/hooks/useDidUpdate.md)
 - [useWillUnmount](./docs/hooks/useWillUnmount.md)
 - [useSetState](./docs/hooks/useSetState.md)
-- [useInput](./docs/utils/useInput.md)
+- [useInput](./docs/hooks/useInput.md)
 - [useEffectOnce](./docs/hooks/useEffectOnce.md)
 - [useEffectWatch](./docs/hooks/useEffectWatch.md)
 
