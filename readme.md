@@ -5,8 +5,12 @@ its a set of essential hooks I use in all me projects.
 
 Thinks of it as a wrappers that makes hooks feel complete.
 
-## Navigation
+## Hooks Menu
 
-- [useSetState](./docs/useSetState.md)
-- [useEffectOnce](./docs/useEffectOnce.md)
-- [useEffectWatch](./docs/useEffectWatch.md)
+- [useSetState](./docs/hooks/useSetState.md)
+- [useEffectOnce](./docs/hooks/useEffectOnce.md)
+- [useEffectWatch](./docs/hooks/useEffectWatch.md)
+
+## Utils Menu
+
+- [useInput](./docs/utils/useInput.md)
